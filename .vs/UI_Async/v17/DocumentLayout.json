@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3E7C16-7FEF-4353-8D25-6EE18D0E62E4}|UI_Async\\UI_Async.csproj|d:\\portfolio\\asincronismo e hilos - ui\\ui_async\\ui_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3E7C16-7FEF-4353-8D25-6EE18D0E62E4}|UI_Async\\UI_Async.csproj|solutionrelative:ui_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF87F9E-10EB-40F0-BA8F-73399F5389BB}|webAPI\\webAPI.csproj|d:\\portfolio\\asincronismo e hilos - ui\\ui_async\\webapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF87F9E-10EB-40F0-BA8F-73399F5389BB}|webAPI\\webAPI.csproj|solutionrelative:webapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3E7C16-7FEF-4353-8D25-6EE18D0E62E4}|UI_Async\\UI_Async.csproj|d:\\portfolio\\asincronismo e hilos - ui\\ui_async\\ui_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3E7C16-7FEF-4353-8D25-6EE18D0E62E4}|UI_Async\\UI_Async.csproj|solutionrelative:ui_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF87F9E-10EB-40F0-BA8F-73399F5389BB}|webAPI\\webAPI.csproj|d:\\portfolio\\asincronismo e hilos - ui\\ui_async\\webapi\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF87F9E-10EB-40F0-BA8F-73399F5389BB}|webAPI\\webAPI.csproj|solutionrelative:webapi\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\UI_Async\\Form1.cs",
+              "RelativeDocumentMoniker": "UI_Async\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\UI_Async\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI_Async\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:08:32.863Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\UI_Async\\Form1.cs",
+              "RelativeDocumentMoniker": "UI_Async\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\UI_Async\\Form1.cs",
+              "RelativeToolTip": "UI_Async\\Form1.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAtwJwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:27:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\webAPI\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "webAPI\\Controllers\\ExampleController.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\webAPI\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "webAPI\\Controllers\\ExampleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:09:24.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\webAPI\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "webAPI\\Controllers\\CardController.cs",
+              "ToolTip": "D:\\Portfolio\\asincronismo e hilos - UI\\UI_Async\\webAPI\\Controllers\\CardController.cs",
+              "RelativeToolTip": "webAPI\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:48:04.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
